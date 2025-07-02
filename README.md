@@ -42,6 +42,8 @@ A fully functional Sudoku puzzle game built in C++. It features a random puzzle 
 8 | . 1 . | . . 6 | . 4 .
 9 | 4 . . | . 3 . | . . 5
 
+---
+
 ### 🎯 User Input Example
 Enter row (1-9) or 0 to view solution and quit: 1
 Enter column (1-9): 2
